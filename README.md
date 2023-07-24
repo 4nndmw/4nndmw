@@ -17,21 +17,18 @@
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "Go"],
-    askMeAbout: ["web development", "artificial intelligence", "natural language processing", "scholarships abroad", "software engineer career"],
+    code: ["Javascript", "PHP", "C++"],
+    askMeAbout: ["web development", "Ui/Ux Designer"],
     technologies: {
         backEnd: {
-            go: ["go core"]
-            java: ["spring boot", "spring mvc", "core", "hibernate"]
-            js: ["node", "express", "meteor"],
-            python: ["fastAPI", "django"]
+            php: ["Laravel"],
+            js: ["node", "express", "nextJs"]
         },
-        devOps: ["AWS", "Docker🐳", "Jenkins", "Kubernetes"],
-        databases: ["mongo", "MySql", "postgreSQL", "redis", "Elastic"],
+        databases: ["mongo", "MySql", "postgreSQL"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Named Entity Classification and Recognition",
-    businessApplicationArea: "e-commerce","social media",
+    architecture: ["Progressive web applications", "Single page applications"],
+    currentFocus: "Web Developer and UI designer",
+    businessApplicationArea: "social media"
 };
 ```
 
