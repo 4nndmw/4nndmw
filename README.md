@@ -88,11 +88,9 @@ const anmol = {
 <br/>  
 
 ## Music I've played on Spotify 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31oystsun4kjryykobophm3li75u&cover_image=true&theme=default&show_offline=false&background_color=f5c7eb&interchange=true&bar_color=1da4e7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31oystsun4kjryykobophm3li75u&redirect=true)
 
 ## My visitor stats  
-![Profile views counter](https://komarev.com/ghpvc/?username=runa-chin&&style=flat-square)  
-  
+
 
 <br/>  
 
